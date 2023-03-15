@@ -21,4 +21,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Credits
 
-This game was built by **Mark Aloo** and `Chat GPT`. Feel free to use and modify the code as you wish.
+This game was built by `Mark Aloo` and `Chat GPT`. Feel free to use and modify the code as you wish.
